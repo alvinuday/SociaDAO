@@ -12,7 +12,7 @@ Vote on the governance and development of the platform
 Connect with people from different backgrounds, interests, and opinions
 Support social entrepreneurship and innovation
 Coming Soon
-SociaDAO is currently under development and not yet available for public use. However, you can visit our website at https://socia.dao.com to learn more about our project and sign up for our newsletter to get notified when we launch. You can also follow us on Twitter or Facebook to stay updated on our progress and news.
+SociaDAO is currently under development and not yet available for public use. However, you can visit our website at https://alvinuday.github.io/SociaDAO/ to learn more about our project and sign up for our newsletter to get notified when we launch.
 
 ## License
 SociaDAO is licensed under the GNU General Public License v3.0 (GPLv3), which means that you can use, modify, and distribute the software as long as you follow the terms and conditions of the license.
