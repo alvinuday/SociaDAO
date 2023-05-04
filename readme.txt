@@ -1,142 +1,36 @@
-==================================================================================================
+##SociaDAO
+SociaDAO is a blockchain-based social media app that aims to solve the privacy issues and other problems of the current centralized platforms. It is an upcoming startup that is expected to launch in 2024 in India, where social media users are growing rapidly and facing various challenges such as censorship, data breaches, fake news, and cyberbullying.
 
-DESCRIPTION:
+SociaDAO will allow users to create and share content on a decentralized network that runs on blockchain technology. Users will have full control over their data and identity, and will be able to monetize their content by earning tokens that can be used for various purposes within the app. Users will also be able to vote on the governance and development of the platform, ensuring that it remains transparent, democratic, and community-driven.
 
-KHRONOS is a creative pack of coming soon template pages. Its elegant and clean design makes it
-perfect for every creative people, corporate, agency or anyone who is currently building their
-site and want to show a coming soon page in a creative way. Khronos is available in three style 
-variations: static, slideshow, and particle background.
+##Features
+Create and share content on a decentralized network
+Earn tokens for creating quality content and curating relevant information
+Opt-in for personalized ads and receive a share of the ad revenue
+Pay for premium services using tokens
+Vote on the governance and development of the platform
+Connect with people from different backgrounds, interests, and opinions
+Support social entrepreneurship and innovation
+Coming Soon
+SociaDAO is currently under development and not yet available for public use. However, you can visit our website at https://socia.dao.com to learn more about our project and sign up for our newsletter to get notified when we launch. You can also follow us on Twitter or Facebook to stay updated on our progress and news.
 
+##License
+SociaDAO is licensed under the GNU General Public License v3.0 (GPLv3), which means that you can use, modify, and distribute the software as long as you follow the terms and conditions of the license.
 
-==================================================================================================
+The full text of the license can be found in the LICENSE file or at https://www.gnu.org/licenses/gpl-3.0.en.html.
 
+##Contributing
+SociaDAO is an open source project that welcomes contributions from anyone who shares its vision and values. If you want to contribute to SociaDAO, you can do so by:
 
-LICENSE:
+##Reporting bugs or suggesting features
+Developing new features or fixing bugs
+Writing documentation or tests
+Translating the app into different languages
+Promoting the app or spreading the word
+To contribute to SociaDAO, you need to fork the repository, make your changes, and submit a pull request. You also need to follow the code of conduct and respect the guidelines for contributors.
 
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
+##Support
+If you need support or have any questions about SociaDAO, you can contact us by emailing at udayalvin@gmail.com
 
-
-Rights:
--------
-
-You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
-in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
-
-
-Prohibitions:
--------------
-
-You are not permitted to resell or redistribute(even for free) the resource "as is" without 
-prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on styleshout.com where users can find the download 
-and not directly to the download zip file.
-
-
-Attribution: 
-------------
-
-You must include a credit link to our website(https://www.styleshout.com) somewhere on your site. 
-We prefer the footer credit that comes with the template but you are still free to move it 
-somewhere else.
-
-
-
-If you have any questions about the License, feel free to contact us.
-
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE ATTRIBUTION LINK:
-
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
-
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://www.styleshout.com/attribution-free/ 
-and click the pay button on the page.
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since KHRONOS is distributed for free, support is not offered. KHRONOS is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - https://marksheet.io/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-javascript in your skill-set, you can also check out these tutorials: 
-
- - https://www.codecademy.com/learn/introduction-to-javascript
- - https://javascript.info/
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-USING THE MAILCHIMP FORM:
-
-To use the mailchimp form you need a mailchimp url. To get the mailchimp url, login to 
-your mailchimp account, click the Audience menu and select signup forms. Then choose 
-embedded forms and select unstyled form. In the generated form code get the value of 
-the form ACTION attribute and use it as your mailchimp url. Open the main.js file located
-in the template's "js" folder and look for this line of code: 
-
-const cfg = {
-
-    // Countdown Timer Final Date
-    finalDate : 'March 20, 2024 00:00:00',
-    // MailChimp URL
-    mailChimpURL : 'https://facebook.us1.list-manage.com/subscribe/post?u=1abf75f6981256963a47d197a&amp;id=37c6d8f4d6' 
-
-};
-
-
-Replace the value of mailChimpURL with your mailchimp url.
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - Inter Font (https://fonts.google.com/specimen/Inter)
-
-Icons:
- - Boxicons (https://boxicons.com/)
-
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- 
-Javascript Files:
- - Swiper (https://swiperjs.com/)
- - MoveTo.js (https://github.com/hsnaydd/moveTo)
- - Prism.js (https://prismjs.com/)
-
--------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from StyleShout :)
-
-
+##Disclaimer
+SociaDAO is a work in progress and may contain bugs or errors. Use it at your own risk and discretion. We are not responsible for any loss or damage caused by using SociaDAO. We do not guarantee the accuracy, completeness, or reliability of any information or content on SociaDAO. We do not endorse any content or opinions expressed by users on SociaDAO. We do not provide any legal, financial, or investment advice. You are solely responsible for your own actions and decisions when using SociaDAO.
